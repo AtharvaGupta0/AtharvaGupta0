@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Atharva Gupta, a first-year Computer Science student at UPES, currently building a broad foundation across software development, computer systems, networking, and related technologies. I enjoy exploring different areas of computing through hands-on projects and experimentation rather than limiting myself to a single domain too early.<br><br>I'm particularly interested in cybersecurity and intend to pursue it as my specialisation from my second year. For now, my focus is simple: strengthen the fundamentals, build useful things, understand how systems actually work, and steadily become a more capable engineer.<br><br>
+I'm Atharva Gupta, a first-year Computer Science student at UPES, currently building a broad foundation across software development, computer systems, networking, and related technologies. I enjoy exploring different areas of computing through hands-on projects and experimentation rather than limiting myself to a single domain.<br><br>I'm particularly interested in cybersecurity and intend to pursue it as my specialization from my second year. For now, my focus is simple: strengthen the fundamentals, build useful things, understand how systems actually work, and steadily become a more capable engineer.<br><br>
 
 
 ## 🌐 Socials:
