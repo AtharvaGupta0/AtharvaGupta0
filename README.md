@@ -18,7 +18,3 @@ I'm Atharva Gupta, a first-year Computer Science student at UPES, currently buil
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AtharvaGupta0&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=AtharvaGupta0&icon=0&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
