@@ -44,3 +44,9 @@ I'm particularly interested in cybersecurity and intend to pursue it as my speci
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AtharvaGupta0&label=Profile%20Views&color=cba6f7&style=flat" alt="Profile Views" />
 </p>
+
+---
+
+### 👁️ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=AtharvaGupta0&label=Profile%20Views&color=cba6f7&style=flat)
