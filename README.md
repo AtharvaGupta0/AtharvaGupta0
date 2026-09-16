@@ -33,15 +33,10 @@ I'm particularly interested in cybersecurity and intend to pursue it as my speci
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AtharvaGupta0&theme=catppuccin_mocha&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repositories
-
-![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=AtharvaGupta0&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
+![GitHub Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=AtharvaGupta0&theme=catppuccin_mocha&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
 ### 👁️ Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AtharvaGupta0&label=Profile%20Views&color=cba6f7&style=flat)
-
