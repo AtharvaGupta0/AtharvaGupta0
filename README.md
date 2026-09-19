@@ -4,11 +4,8 @@ I'm Atharva Gupta, a first-year Computer Science student at UPES, currently buil
 
 I'm particularly interested in cybersecurity and intend to pursue it as my specialisation from my second year. For now, my focus is simple: strengthen the fundamentals, build useful things, understand how systems actually work, and steadily become a more capable engineer.
 
-## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atharva_gupta0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-gupta-6896443b2)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guptaatharva2007@gmail.com)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atharva_gupta0) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/Atharva_Gupta0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-gupta-6896443b2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guptaatharva2007@gmail.com)
 
 # 💻 Tech Stack
 
